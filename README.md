@@ -9,5 +9,3 @@ A key aspect of this project is the maintenance of data integrity directly from 
 <li>Scheduled Bulk Order Updates: Daily midnight, the system will process bulk orders, updating financial records and adjusting inventory, ensuring accurate stock levels for daily operations.</li>
 </ul>
 
-
-What you'll learn : 
