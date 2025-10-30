@@ -7,5 +7,7 @@ A key aspect of this project is the maintenance of data integrity directly from 
 <li>Dynamic Loyalty Program: Customer loyalty statuses will be updated based on purchase history, enabling personalized rewards and promoting repeat business.</li>
 <li>Proactive Stock Alerts: When stock levels drop below five units, automatic emails will notify the warehouse team, ensuring timely restocking and preventing stockouts.</li>
 <li>Scheduled Bulk Order Updates: Daily midnight, the system will process bulk orders, updating financial records and adjusting inventory, ensuring accurate stock levels for daily operations.</li>
+
+**DEMO LINK: **https://drive.google.com/drive/folders/1-UhNXa3rfjbEYPgTd4DcDQ0_14Y07xP5?usp=drive_link
 </ul>
 
